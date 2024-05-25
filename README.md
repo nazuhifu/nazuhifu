@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+<img height="250" alt="GIF" align="center" src="https://github.com/nazuhifu/nazuhifu/blob/main/assets/kiminonawa.gif">
+</div>
+
+# <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=100&color=77dd77&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+nazuhifu;Nice+to+meet+you!)](https://git.io/typing-svg) </div>
+
+
 
 <!--
 **nazuhifu/nazuhifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
